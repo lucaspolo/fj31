@@ -1,0 +1,10 @@
+package br.com.caelum.loja.cliente;
+
+import java.rmi.Naming;
+import java.rmi.Remote;
+
+public class ClienteLojaCarrinho {
+	public static void main(String[] args) {
+		Carrinho carrinho = (Carrinho) Naming.lookup("rmi://localhost:1099/loja/carrinho");
+	}
+}

@@ -1,0 +1,37 @@
+package br.com.caelum.loja.rmi;
+
+import java.rmi.RemoteException;
+import java.rmi.server.UnicastRemoteObject;
+import java.util.ArrayList;
+import java.util.List;
+
+public class CarrinhoBean extends UnicastRemoteObject implements Carrinho {
+
+	private double total;
+	private List<Livro> livros = new ArrayList<>();
+	
+	protected CarrinhoBean() throws RemoteException {
+		super();
+		// TODO Auto-generated constructor stub
+	}
+
+	@Override
+	public void addLivro(Livro livro) throws RemoteException {
+		livros.add(livro);
+		total += livro.getPreco();
+
+	}
+
+	@Override
+	public List<Livro> getLivros() throws RemoteException {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public double getTotal() throws RemoteException {
+		// TODO Auto-generated method stub
+		return 0;
+	}
+
+}

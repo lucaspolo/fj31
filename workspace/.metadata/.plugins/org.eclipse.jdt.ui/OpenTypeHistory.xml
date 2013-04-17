@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<typeInfoHistroy>
+<typeInfo handle="=fj31-loja-rmi/\/usr\/lib\/jvm\/java-7-oracle\/jre\/lib\/rt.jar&lt;java.rmi(Remote.class[Remote" modifiers="1537" timestamp="1364646666000"/>
+<typeInfo handle="=fj31-loja-rmi/src&lt;br.com.caelum.loja.rmi{Carrinho.java[Carrinho" modifiers="513" timestamp="1366039006000"/>
+<typeInfo handle="=fj31-loja-rmi/\/usr\/lib\/jvm\/java-7-oracle\/jre\/lib\/rt.jar&lt;java.rmi.server(UnicastRemoteObject.class[UnicastRemoteObject" modifiers="33" timestamp="1364646666000"/>
+<typeInfo handle="=fj31-loja-rmi/src&lt;br.com.caelum.loja.rmi{CarrinhoFactory.java[CarrinhoFactory" modifiers="513" timestamp="1366040730000"/>
+<typeInfo handle="=fj31-livraria/\/usr\/lib\/jvm\/java-7-oracle\/jre\/lib\/rt.jar&lt;java.io(Serializable.class[Serializable" modifiers="1537" timestamp="1364646666000"/>
+<typeInfo handle="=fj31-livraria/src&lt;br.com.caelum.livraria.ejb{Carrinho.java[Carrinho" modifiers="513" timestamp="1366116230000"/>
+</typeInfoHistroy>

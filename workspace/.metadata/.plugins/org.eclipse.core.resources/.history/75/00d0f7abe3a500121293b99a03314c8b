@@ -1,0 +1,15 @@
+package br.com.caelum.loja.rmi;
+
+import java.rmi.RemoteException;
+import java.rmi.server.UnicastRemoteObject;
+
+public class CarrinhoFactoryBean extends UnicastRemoteObject implements
+		CarrinhoFactory {
+
+	@Override
+	public Carrinho create() throws RemoteException {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+}

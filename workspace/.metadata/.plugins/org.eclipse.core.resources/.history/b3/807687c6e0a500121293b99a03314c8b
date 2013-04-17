@@ -1,0 +1,15 @@
+package br.com.caelum.loja.cliente;
+
+import java.net.MalformedURLException;
+import java.rmi.Naming;
+import java.rmi.NotBoundException;
+import java.rmi.Remote;
+import java.rmi.RemoteException;
+
+import br.com.caelum.loja.rmi.Carrinho;
+
+public class ClienteLojaCarrinho {
+	public static void main(String[] args) throws MalformedURLException, RemoteException, NotBoundException {
+		Carrinho carrinho = (Carrinho) Naming.lookup("rmi://localhost:1099/loja/carrinho");
+	}
+}

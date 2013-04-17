@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="java.lang.String"/>
+<fullyQualifiedTypeName name="javax.annotation.PreDestroy"/>
+<fullyQualifiedTypeName name="javax.ejb.StatefulTimeout"/>
+<fullyQualifiedTypeName name="java.util.concurrent.TimeUnit"/>
+<fullyQualifiedTypeName name="javax.ejb.PostActivate"/>
+<fullyQualifiedTypeName name="javax.ejb.PrePassivate"/>
+<fullyQualifiedTypeName name="java.util.HashMap"/>
+<fullyQualifiedTypeName name="javax.ejb.Stateless"/>
+<fullyQualifiedTypeName name="javax.ejb.Remote"/>
+<fullyQualifiedTypeName name="br.com.caelum.loja.session.GerenciadorLoja"/>
+<fullyQualifiedTypeName name="org.jboss.ejb3.annotation.Pool"/>
+<fullyQualifiedTypeName name="br.com.caelum.loja.entity.Livro"/>
+<fullyQualifiedTypeName name="org.jboss.ejb3.annotation.Cache"/>
+<fullyQualifiedTypeName name="java.util.List"/>
+<fullyQualifiedTypeName name="javax.ejb.TimerService"/>
+<fullyQualifiedTypeName name="javax.ejb.ScheduleExpression"/>
+<fullyQualifiedTypeName name="javax.ejb.TimerConfig"/>
+<fullyQualifiedTypeName name="javax.ejb.Timer"/>
+<fullyQualifiedTypeName name="javax.naming.InitialContext"/>
+<fullyQualifiedTypeName name="javax.ejb.Schedule"/>
+</qualifiedTypeNameHistroy>

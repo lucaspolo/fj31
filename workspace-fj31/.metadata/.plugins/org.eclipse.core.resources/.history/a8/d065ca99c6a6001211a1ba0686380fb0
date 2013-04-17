@@ -1,0 +1,12 @@
+package br.com.caelum.loja.client.exemplo;
+
+import javax.naming.InitialContext;
+import javax.naming.NamingException;
+
+public class ClienteProcuraLivro {
+	public static void main(String[] args) throws NamingException {
+		InitialContext ic = new InitialContext();
+		
+		ic.lookup("fj31-loja-ejb3/GerenciadorLivroBean!br.com.caelum.loja.session.GerenciadorLoja");
+	}
+}
