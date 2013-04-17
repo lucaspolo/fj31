@@ -1,0 +1,7 @@
+package br.com.caelum.loja.entity;
+
+import java.io.Serializable;
+
+public class Autor implements Serializable {
+
+}

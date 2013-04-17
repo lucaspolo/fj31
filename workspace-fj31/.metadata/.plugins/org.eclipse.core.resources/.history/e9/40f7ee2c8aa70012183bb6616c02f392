@@ -1,0 +1,11 @@
+package br.com.caelum.loja.client.exemplo;
+
+import javax.naming.InitialContext;
+
+public class ClienteSalvaLivroComAutor {
+	public static void main(String[] args) {
+		InitialContext ic = new InitialContext();
+		
+		ic.lookup("ejb:fj31-loja-ear/fj31-loja-ejb3/GerenciadorLivroBean!br.com.caelum.loja.session.GerenciadorLoja");
+	}
+}

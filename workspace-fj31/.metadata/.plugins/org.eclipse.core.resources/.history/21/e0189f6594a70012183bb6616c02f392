@@ -1,0 +1,7 @@
+package br.com.caelum.loja.client.exemplo;
+
+public class ClienteGerenciadorPesquisa {
+	public static void main(String[] args) {
+		
+	}
+}
