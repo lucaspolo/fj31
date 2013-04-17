@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Extract local variable &apos;livro&apos; from expression &apos;new Livro()&apos;&#x0A;- Original project: &apos;fj31-loja-client&apos;&#x0A;- Variable name: &apos;livro&apos;&#x0A;- Destination method: &apos;br.com.caelum.loja.client.exemplo.ClienteFazendoChamadaLocal.main()&apos;&#x0A;- Variable expression: &apos;new Livro()&apos;&#x0A;- Replace occurrences of expression with variable" description="Extract local variable &apos;livro&apos;" final="false" id="org.eclipse.jdt.ui.extract.temp" input="/appClientModule&lt;br.com.caelum.loja.client.exemplo{ClienteFazendoChamadaLocal.java" name="livro" replace="true" selection="171 11" stamp="1366207493516" version="1.0"/>
+</session>

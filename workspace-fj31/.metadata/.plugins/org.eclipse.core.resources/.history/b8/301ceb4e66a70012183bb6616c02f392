@@ -1,0 +1,17 @@
+package br.com.caelum.loja.client.exemplo;
+
+import javax.naming.InitialContext;
+
+
+public class ClienteFuzilandoServidor {
+
+	/**
+	 * @param args
+	 */
+	public static void main(String[] args) {
+		InitialContext ic = new InitialContext();
+		
+		ic.lookup("");
+	}
+
+}
