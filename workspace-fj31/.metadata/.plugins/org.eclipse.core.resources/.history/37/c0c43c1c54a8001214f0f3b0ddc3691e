@@ -1,0 +1,10 @@
+package br.com.caelum.jms;
+
+import java.util.Properties;
+
+public class RegistraTratadorNaFila {
+	public static void main(String[] args) {
+		Properties jndiProperties = new Properties();
+		
+	}
+}

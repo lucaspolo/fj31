@@ -1,0 +1,9 @@
+
+<assembly-descriptor>
+	<application-exception>
+		<exception-class>
+			br.com.caelum.loja.exception.SalvaLivroException
+		</exception-class>
+		<rollback>false</rollback>
+	</application-exception>
+</assembly-descriptor>

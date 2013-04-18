@@ -870,3 +870,571 @@ Command-line arguments:  -os linux -ws gtk -arch x86 -product org.eclipse.epp.pa
 
 !ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2013-04-17 17:01:04.961
 !MESSAGE Server Startup Succeeded
+!SESSION 2013-04-18 09:14:27.072 -----------------------------------------------
+eclipse.buildId=M20120208-0800
+java.version=1.7.0_17
+java.vendor=Oracle Corporation
+BootLoader constants: OS=linux, ARCH=x86, WS=gtk, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os linux -ws gtk -arch x86 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-04-18 09:46:30.994
+!MESSAGE Module fj31-loja-ear published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-04-18 09:46:31.082
+!MESSAGE Module fj31-loja-ejb3 published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-04-18 09:46:31.174
+!MESSAGE Module fj31-loja-base published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2013-04-18 09:46:37.801
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2013-04-18 09:46:55.958
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-04-18 10:20:16.420
+!MESSAGE 1 files modified in module fj31-loja-ejb3
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-04-18 10:20:20.921
+!MESSAGE 1 files modified in module fj31-loja-ejb3
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842776 2013-04-18 10:24:08.004
+!MESSAGE Server shutting down
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-04-18 10:24:08.305
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842785 2013-04-18 10:24:08.315
+!MESSAGE Server Shutdown Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2013-04-18 10:24:13.341
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2013-04-18 10:24:24.775
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-04-18 10:27:38.048
+!MESSAGE Module fj31-loja-base published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-04-18 10:30:32.744
+!MESSAGE 1 files modified in module fj31-loja-ejb3
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842776 2013-04-18 10:30:53.517
+!MESSAGE Server shutting down
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-04-18 10:30:53.803
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-04-18 10:30:53.804
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-04-18 10:30:53.805
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-04-18 10:30:58.840
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2013-04-18 10:30:58.848
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2013-04-18 10:31:09.039
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2013-04-18 10:31:18.511
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-04-18 10:36:30.203
+!MESSAGE 1 files modified in module fj31-loja-ejb3
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-04-18 10:36:30.216
+!MESSAGE Module fj31-loja-base published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842776 2013-04-18 10:36:33.515
+!MESSAGE Server shutting down
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-04-18 10:36:33.817
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-04-18 10:36:33.818
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-04-18 10:36:33.819
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2013-04-18 10:36:38.845
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2013-04-18 10:36:45.068
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-04-18 10:37:04.483
+!MESSAGE 1 files modified in module fj31-loja-ejb3
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-04-18 10:37:20.107
+!MESSAGE 1 files modified in module fj31-loja-ejb3
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-04-18 10:37:28.466
+!MESSAGE 1 files modified in module fj31-loja-ejb3
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-04-18 10:37:28.480
+!MESSAGE Module fj31-loja-base published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-04-18 10:40:08.528
+!MESSAGE Module fj31-loja-base published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-04-18 10:53:59.700
+!MESSAGE Module fj31-loja-base published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842776 2013-04-18 10:54:44.043
+!MESSAGE Server shutting down
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-04-18 10:54:44.364
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-04-18 10:54:44.366
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-04-18 10:54:44.366
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2013-04-18 10:54:49.398
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2013-04-18 10:55:06.353
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-04-18 11:03:41.497
+!MESSAGE 1 files modified in module fj31-loja-ejb3
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-04-18 11:04:46.611
+!MESSAGE 1 files modified in module fj31-loja-ejb3
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-04-18 11:05:24.945
+!MESSAGE Module fj31-loja-base published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842776 2013-04-18 11:05:34.925
+!MESSAGE Server shutting down
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-04-18 11:05:35.225
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-04-18 11:05:35.226
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-04-18 11:05:35.227
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2013-04-18 11:05:40.249
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2013-04-18 11:05:46.173
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-04-18 11:07:01.835
+!MESSAGE Module fj31-loja-base published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842776 2013-04-18 11:07:05.515
+!MESSAGE Server shutting down
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-04-18 11:07:05.682
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-04-18 11:07:05.684
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-04-18 11:07:05.684
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2013-04-18 11:07:10.710
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2013-04-18 11:07:21.661
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-04-18 11:08:27.308
+!MESSAGE Module fj31-loja-ear published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-04-18 11:08:27.313
+!MESSAGE Module fj31-loja-ejb3 published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-04-18 11:08:27.323
+!MESSAGE Module fj31-loja-base published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-04-18 11:09:05.424
+!MESSAGE 1 files modified in module fj31-loja-ejb3
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-04-18 11:09:25.807
+!MESSAGE 1 files modified in module fj31-loja-ejb3
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-04-18 11:13:31.627
+!MESSAGE 1 files modified in module fj31-loja-ejb3
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842776 2013-04-18 11:13:43.093
+!MESSAGE Server shutting down
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-04-18 11:13:43.325
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-04-18 11:13:43.327
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-04-18 11:13:43.327
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2013-04-18 11:13:48.353
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2013-04-18 11:13:54.291
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-04-18 11:15:14.726
+!MESSAGE Module fj31-loja-ear published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-04-18 11:15:14.731
+!MESSAGE Module fj31-loja-ejb3 published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-04-18 11:15:14.742
+!MESSAGE Module fj31-loja-base published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-04-18 11:16:22.973
+!MESSAGE Module fj31-loja-base published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-04-18 11:16:25.060
+!MESSAGE Module fj31-loja-base published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-04-18 11:18:53.195
+!MESSAGE Module fj31-loja-ear published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-04-18 11:18:53.201
+!MESSAGE Module fj31-loja-ejb3 published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-04-18 11:18:53.211
+!MESSAGE Module fj31-loja-base published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-04-18 11:19:01.732
+!MESSAGE Module fj31-loja-ear published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-04-18 11:19:01.740
+!MESSAGE Module fj31-loja-ejb3 published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-04-18 11:19:01.750
+!MESSAGE Module fj31-loja-base published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-04-18 11:22:54.824
+!MESSAGE Module fj31-loja-base published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-04-18 11:22:56.959
+!MESSAGE Module fj31-loja-base published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-04-18 11:23:14.575
+!MESSAGE Module fj31-loja-ear published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-04-18 11:23:14.581
+!MESSAGE Module fj31-loja-ejb3 published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-04-18 11:23:14.591
+!MESSAGE Module fj31-loja-base published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-04-18 11:23:24.048
+!MESSAGE Module fj31-loja-ear published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-04-18 11:23:24.053
+!MESSAGE Module fj31-loja-ejb3 published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-04-18 11:23:24.085
+!MESSAGE Module fj31-loja-base published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842776 2013-04-18 11:24:46.401
+!MESSAGE Server shutting down
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-04-18 11:24:46.622
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-04-18 11:24:46.623
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-04-18 11:24:46.624
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-04-18 11:24:51.567
+!MESSAGE Module fj31-loja-ear published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-04-18 11:24:51.572
+!MESSAGE Module fj31-loja-ejb3 published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-04-18 11:24:51.583
+!MESSAGE Module fj31-loja-base published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-04-18 11:25:21.356
+!MESSAGE Module fj31-loja-ear published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-04-18 11:25:21.363
+!MESSAGE Module fj31-loja-ejb3 published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-04-18 11:25:21.373
+!MESSAGE Module fj31-loja-base published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2013-04-18 11:25:30.864
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2013-04-18 11:25:36.687
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-04-18 11:28:55.196
+!MESSAGE 2 files modified in module fj31-loja-ejb3
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-04-18 11:29:03.076
+!MESSAGE Module fj31-loja-ear published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-04-18 11:29:03.081
+!MESSAGE Module fj31-loja-ejb3 published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-04-18 11:29:03.091
+!MESSAGE Module fj31-loja-base published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-04-18 11:30:12.988
+!MESSAGE 1 files modified in module fj31-loja-ejb3
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-04-18 11:30:24.659
+!MESSAGE 1 files modified in module fj31-loja-ejb3
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-04-18 11:30:40.724
+!MESSAGE Module fj31-loja-ear published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-04-18 11:30:40.731
+!MESSAGE Module fj31-loja-ejb3 published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-04-18 11:30:40.741
+!MESSAGE Module fj31-loja-base published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-04-18 11:30:54.118
+!MESSAGE 1 files modified in module fj31-loja-ejb3
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-04-18 11:36:02.553
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-04-18 11:36:02.554
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-04-18 11:36:02.555
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-04-18 11:36:23.616
+!MESSAGE Module fj31-loja-ear published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-04-18 11:36:23.621
+!MESSAGE Module fj31-loja-ejb3 published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-04-18 11:36:23.630
+!MESSAGE Module fj31-loja-base published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2013-04-18 11:36:48.734
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2013-04-18 11:36:54.348
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-04-18 11:37:29.774
+!MESSAGE 1 files modified in module fj31-loja-ejb3
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-04-18 11:37:55.731
+!MESSAGE Module fj31-loja-ear published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-04-18 11:37:55.737
+!MESSAGE Module fj31-loja-ejb3 published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-04-18 11:37:55.747
+!MESSAGE Module fj31-loja-base published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-04-18 11:41:15.145
+!MESSAGE 1 files modified in module fj31-loja-ejb3
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-04-18 11:41:24.560
+!MESSAGE Module fj31-loja-ear published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-04-18 11:41:24.569
+!MESSAGE Module fj31-loja-ejb3 published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-04-18 11:41:24.578
+!MESSAGE Module fj31-loja-base published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-04-18 11:56:02.231
+!MESSAGE 1 files modified in module fj31-loja-ejb3
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-04-18 11:56:57.541
+!MESSAGE 1 files modified in module fj31-loja-ejb3
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-04-18 11:59:16.022
+!MESSAGE 1 files modified in module fj31-loja-ejb3
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-04-18 11:59:34.166
+!MESSAGE 1 files modified in module fj31-loja-ejb3
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-04-18 11:59:44.104
+!MESSAGE 1 files modified in module fj31-loja-ejb3
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-04-18 12:01:38.404
+!MESSAGE 1 files modified in module fj31-loja-ejb3
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-04-18 12:02:25.924
+!MESSAGE Module fj31-loja-ear published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-04-18 12:02:25.949
+!MESSAGE Module fj31-loja-ejb3 published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-04-18 12:02:25.958
+!MESSAGE Module fj31-loja-base published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-04-18 12:04:07.876
+!MESSAGE Module fj31-loja-ear published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-04-18 12:04:07.882
+!MESSAGE Module fj31-loja-ejb3 published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-04-18 12:04:07.892
+!MESSAGE Module fj31-loja-base published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-04-18 12:04:39.424
+!MESSAGE 1 files modified in module fj31-loja-ejb3
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-04-18 12:05:08.860
+!MESSAGE Module fj31-loja-ear published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-04-18 12:05:08.866
+!MESSAGE Module fj31-loja-ejb3 published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-04-18 12:05:08.876
+!MESSAGE Module fj31-loja-base published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-04-18 12:08:58.160
+!MESSAGE Module fj31-loja-ear published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-04-18 12:08:58.167
+!MESSAGE Module fj31-loja-ejb3 published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-04-18 12:08:58.177
+!MESSAGE Module fj31-loja-base published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-04-18 12:09:47.254
+!MESSAGE 1 files modified in module fj31-loja-ejb3
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-04-18 12:09:52.549
+!MESSAGE Module fj31-loja-ear published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-04-18 12:09:52.555
+!MESSAGE Module fj31-loja-ejb3 published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-04-18 12:09:52.564
+!MESSAGE Module fj31-loja-base published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-04-18 12:10:57.843
+!MESSAGE 1 files modified in module fj31-loja-ejb3
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-04-18 12:11:49.597
+!MESSAGE 1 files modified in module fj31-loja-ejb3
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-04-18 12:12:24.048
+!MESSAGE 1 files modified in module fj31-loja-ejb3
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-04-18 12:12:53.041
+!MESSAGE 1 files modified in module fj31-loja-ejb3
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-04-18 12:13:20.309
+!MESSAGE 1 files modified in module fj31-loja-ejb3
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-04-18 12:14:02.179
+!MESSAGE 1 files modified in module fj31-loja-ejb3
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-04-18 12:14:07.381
+!MESSAGE 1 files modified in module fj31-loja-ejb3
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-04-18 12:14:09.482
+!MESSAGE 1 files modified in module fj31-loja-ejb3
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-04-18 12:14:20.685
+!MESSAGE Module fj31-loja-ear published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-04-18 12:14:20.692
+!MESSAGE Module fj31-loja-ejb3 published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-04-18 12:14:20.702
+!MESSAGE Module fj31-loja-base published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-04-18 12:18:05.941
+!MESSAGE 1 files modified in module fj31-loja-ejb3
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-04-18 12:18:14.445
+!MESSAGE Module fj31-loja-ear published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-04-18 12:18:14.451
+!MESSAGE Module fj31-loja-ejb3 published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-04-18 12:18:14.461
+!MESSAGE Module fj31-loja-base published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-04-18 12:33:05.606
+!MESSAGE 1 files modified in module fj31-loja-ejb3
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842776 2013-04-18 14:36:27.905
+!MESSAGE Server shutting down
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-04-18 14:36:28.053
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-04-18 14:36:28.054
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-04-18 14:36:28.054
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2013-04-18 15:03:37.628
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2013-04-18 15:03:59.284
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-04-18 15:40:15.860
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-04-18 15:40:15.866
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-04-18 15:40:15.867
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2013-04-18 15:41:30.280
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2013-04-18 15:41:36.605
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842776 2013-04-18 16:07:21.340
+!MESSAGE Server shutting down
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-04-18 16:07:21.791
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-04-18 16:07:21.792
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-04-18 16:07:21.793
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2013-04-18 16:07:26.818
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2013-04-18 16:07:37.851
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842776 2013-04-18 16:17:52.224
+!MESSAGE Server shutting down
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-04-18 16:17:52.666
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-04-18 16:17:52.667
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-04-18 16:17:52.668
+!MESSAGE Server processes have been terminated.

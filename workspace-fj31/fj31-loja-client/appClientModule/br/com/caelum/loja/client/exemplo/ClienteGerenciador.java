@@ -18,5 +18,6 @@ public class ClienteGerenciador {
 		livro.setPreco(25.0);
 		
 		gerenciador.salva(livro);
+		System.out.println("Livro Salvo!");
 	}
 }

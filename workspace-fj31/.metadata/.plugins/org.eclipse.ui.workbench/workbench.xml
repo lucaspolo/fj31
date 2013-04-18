@@ -17,11 +17,13 @@
 <coolItem id="org.eclipse.wst.server.ui.internal.webbrowser.actionSet" itemType="typeToolBarContribution" x="40" y="30"/>
 <coolItem id="org.eclipse.wst.ws.explorer.explorer" itemType="typeToolBarContribution" x="40" y="30"/>
 <coolItem id="org.eclipse.wst.xml.ui.perspective.NewFileToolBar" itemType="typeToolBarContribution" x="-1" y="-1"/>
-<coolItem id="org.eclipse.wst.xml.ui.design.DesignToolBar" itemType="typeToolBarContribution" x="-1" y="-1"/>
+<coolItem id="org.eclipse.wst.xml.ui.design.DesignToolBar" itemType="typeToolBarContribution" x="68" y="30"/>
 <coolItem id="org.jboss.tools.jst.web.ui.server.actionSet" itemType="typeToolBarContribution" x="166" y="30"/>
 <coolItem id="group.nav" itemType="typeGroupMarker"/>
 <coolItem id="org.eclipse.ui.workbench.navigate" itemType="typeToolBarContribution" x="184" y="30"/>
 <coolItem id="group.editor" itemType="typeGroupMarker"/>
+<coolItem id="org.eclipse.jdt.ui.ClassFileEditor" itemType="typePlaceholder" x="-1" y="-1"/>
+<coolItem id="org.eclipse.jpt.jpa.ui.internal.editors.PersistenceEditor" itemType="typePlaceholder" x="-1" y="-1"/>
 <coolItem id="org.eclipse.wst.server.ui.editor" itemType="typePlaceholder" x="-1" y="-1"/>
 <coolItem id="org.eclipse.jdt.ui.PropertiesFileEditor" itemType="typePlaceholder" x="-1" y="-1"/>
 <coolItem id="org.eclipse.jdt.ui.CompilationUnitEditor" itemType="typeToolBarContribution" x="-1" y="-1"/>
@@ -37,41 +39,21 @@
 <part id="0"/>
 <part id="1"/>
 <part id="2"/>
-<part id="3"/>
-<part id="4"/>
-<part id="5"/>
-<part id="6"/>
 </presentation>
 </folder>
 </info>
 </editorArea>
-<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="CarrinhoBean.java" partName="CarrinhoBean.java" path="/home/ejb3493/workspace-fj31/fj31-loja-ejb3/ejbModule/br/com/caelum/loja/session/CarrinhoBean.java" title="CarrinhoBean.java" tooltip="fj31-loja-ejb3/ejbModule/br/com/caelum/loja/session/CarrinhoBean.java" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/fj31-loja-ejb3/ejbModule/br/com/caelum/loja/session/CarrinhoBean.java"/>
-<editorState selectionHorizontalPixel="0" selectionLength="106" selectionOffset="441" selectionTopPixel="0"/>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="ClienteGerenciadorPesquisa.java" partName="ClienteGerenciadorPesquisa.java" path="/home/ejb3493/FJ31-LucasPolo/workspace-fj31/fj31-loja-client/appClientModule/br/com/caelum/loja/client/exemplo/ClienteGerenciadorPesquisa.java" title="ClienteGerenciadorPesquisa.java" tooltip="fj31-loja-client/appClientModule/br/com/caelum/loja/client/exemplo/ClienteGerenciadorPesquisa.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/fj31-loja-client/appClientModule/br/com/caelum/loja/client/exemplo/ClienteGerenciadorPesquisa.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="357" selectionTopPixel="75"/>
 </editor>
-<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Mensageiro.java" partName="Mensageiro.java" path="/home/ejb3493/workspace-fj31/fj31-loja-base/src/br/com/caelum/loja/session/Mensageiro.java" title="Mensageiro.java" tooltip="fj31-loja-base/src/br/com/caelum/loja/session/Mensageiro.java" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/fj31-loja-base/src/br/com/caelum/loja/session/Mensageiro.java"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="172" selectionTopPixel="0"/>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="GerenciadorLivroBean.java" partName="GerenciadorLivroBean.java" path="/home/ejb3493/FJ31-LucasPolo/workspace-fj31/fj31-loja-ejb3/ejbModule/br/com/caelum/loja/session/GerenciadorLivroBean.java" title="GerenciadorLivroBean.java" tooltip="fj31-loja-ejb3/ejbModule/br/com/caelum/loja/session/GerenciadorLivroBean.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/fj31-loja-ejb3/ejbModule/br/com/caelum/loja/session/GerenciadorLivroBean.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="1655" selectionTopPixel="648"/>
 </editor>
-<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="MensageiroBean.java" partName="MensageiroBean.java" path="/home/ejb3493/workspace-fj31/fj31-loja-ejb3/ejbModule/br/com/caelum/loja/session/MensageiroBean.java" title="MensageiroBean.java" tooltip="fj31-loja-ejb3/ejbModule/br/com/caelum/loja/session/MensageiroBean.java" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/fj31-loja-ejb3/ejbModule/br/com/caelum/loja/session/MensageiroBean.java"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="284" selectionTopPixel="0"/>
-</editor>
-<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="ClienteCarrinho.java" partName="ClienteCarrinho.java" path="/home/ejb3493/workspace-fj31/fj31-loja-client/appClientModule/br/com/caelum/loja/client/exemplo/ClienteCarrinho.java" title="ClienteCarrinho.java" tooltip="fj31-loja-client/appClientModule/br/com/caelum/loja/client/exemplo/ClienteCarrinho.java" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/fj31-loja-client/appClientModule/br/com/caelum/loja/client/exemplo/ClienteCarrinho.java"/>
+<editor activePart="true" focus="true" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="ClienteSalvaLivroComAutor.java" partName="ClienteSalvaLivroComAutor.java" path="/home/ejb3493/FJ31-LucasPolo/workspace-fj31/fj31-loja-client/appClientModule/br/com/caelum/loja/client/exemplo/ClienteSalvaLivroComAutor.java" title="ClienteSalvaLivroComAutor.java" tooltip="fj31-loja-client/appClientModule/br/com/caelum/loja/client/exemplo/ClienteSalvaLivroComAutor.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/fj31-loja-client/appClientModule/br/com/caelum/loja/client/exemplo/ClienteSalvaLivroComAutor.java"/>
 <editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="0" selectionTopPixel="0"/>
-</editor>
-<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Agendador.java" partName="Agendador.java" path="/home/ejb3493/workspace-fj31/fj31-loja-base/src/br/com/caelum/loja/session/Agendador.java" title="Agendador.java" tooltip="fj31-loja-base/src/br/com/caelum/loja/session/Agendador.java" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/fj31-loja-base/src/br/com/caelum/loja/session/Agendador.java"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="130" selectionTopPixel="0"/>
-</editor>
-<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="AgendadorBean.java" partName="AgendadorBean.java" path="/home/ejb3493/workspace-fj31/fj31-loja-ejb3/ejbModule/br/com/caelum/loja/session/AgendadorBean.java" title="AgendadorBean.java" tooltip="fj31-loja-ejb3/ejbModule/br/com/caelum/loja/session/AgendadorBean.java" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/fj31-loja-ejb3/ejbModule/br/com/caelum/loja/session/AgendadorBean.java"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="791" selectionTopPixel="388"/>
-</editor>
-<editor activePart="true" focus="true" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="ClienteAgendador.java" partName="ClienteAgendador.java" path="/home/ejb3493/workspace-fj31/fj31-loja-client/appClientModule/br/com/caelum/loja/client/exemplo/ClienteAgendador.java" title="ClienteAgendador.java" tooltip="fj31-loja-client/appClientModule/br/com/caelum/loja/client/exemplo/ClienteAgendador.java" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/fj31-loja-client/appClientModule/br/com/caelum/loja/client/exemplo/ClienteAgendador.java"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="441" selectionTopPixel="0"/>
 </editor>
 </editors>
 <views>
@@ -89,14 +71,8 @@
 </viewState>
 </view>
 <view id="org.eclipse.wst.common.snippets.internal.ui.SnippetsView" partName="Snippets"/>
-<view id="org.eclipse.ui.views.PropertySheet" partName="Properties">
-<viewState/>
-</view>
 <view id="org.eclipse.ui.console.ConsoleView:Console View #1" partName="Console">
 <viewState/>
-</view>
-<view id="org.eclipse.datatools.connectivity.DataSourceExplorerNavigator" partName="Data Source Explorer">
-<viewState CommonNavigator.LINKING_ENABLED="0" showCategories="true"/>
 </view>
 <view id="org.eclipse.ui.console.ConsoleView" partName="Console">
 <viewState/>
@@ -105,7 +81,7 @@
 <viewState CommonNavigator.LINKING_ENABLED="0"/>
 </view>
 </views>
-<perspectives activePart="org.eclipse.jdt.ui.CompilationUnitEditor" activePerspective="org.eclipse.jst.j2ee.J2EEPerspective">
+<perspectives activePart="org.eclipse.ui.navigator.ProjectExplorer" activePerspective="org.eclipse.jst.j2ee.J2EEPerspective">
 <perspective editorAreaTrimState="2" editorAreaVisible="1" fixed="0" version="0.016">
 <descriptor class="org.eclipse.jst.j2ee.internal.perspective.J2EEPerspective" id="org.eclipse.jst.j2ee.J2EEPerspective" label="Java EE"/>
 <alwaysOnActionSet id="org.eclipse.mylyn.context.ui.actionSet"/>
@@ -165,9 +141,7 @@
 <hide_toolbar_item_id id="org.eclipse.jdt.ui.actions.OpenProjectWizard"/>
 <hide_toolbar_item_id id="org.eclipse.ui.edit.text.toggleShowSelectedElementOnly"/>
 <view id="org.eclipse.ui.views.AllMarkersView"/>
-<view id="org.eclipse.ui.views.PropertySheet"/>
 <view id="org.eclipse.wst.server.ui.ServersView"/>
-<view id="org.eclipse.datatools.connectivity.DataSourceExplorerNavigator"/>
 <view id="org.eclipse.wst.common.snippets.internal.ui.SnippetsView"/>
 <view id="org.eclipse.ui.console.ConsoleView"/>
 <view id="org.eclipse.ui.console.ConsoleView:Console View #1"/>
@@ -193,16 +167,16 @@
 <page content="org.eclipse.ui.cheatsheets.views.CheatSheetView" label="LabelNotFound"/>
 </folder>
 </info>
-<info part="org.eclipse.ui.editorss" ratio="0.24950495" ratioLeft="252" ratioRight="758" relationship="2" relative="topLeft"/>
-<info folder="true" part="bottomRight" ratio="0.5767742" ratioLeft="447" ratioRight="328" relationship="4" relative="org.eclipse.ui.editorss">
+<info part="org.eclipse.ui.editorss" ratio="0.21325459" ratioLeft="325" ratioRight="1199" relationship="2" relative="topLeft"/>
+<info folder="true" part="bottomRight" ratio="0.7290323" ratioLeft="565" ratioRight="210" relationship="4" relative="org.eclipse.ui.editorss">
 <folder activePageID="org.eclipse.ui.console.ConsoleView" appearance="2" expanded="2">
 <page content="org.eclipse.ui.views.AllMarkersView" label="Markers"/>
-<page content="org.eclipse.ui.views.PropertySheet" label="Properties"/>
 <page content="org.eclipse.wst.server.ui.ServersView" label="Servers"/>
-<page content="org.eclipse.datatools.connectivity.DataSourceExplorerNavigator" label="Data Source Explorer"/>
 <page content="org.eclipse.wst.common.snippets.internal.ui.SnippetsView" label="Snippets"/>
-<page content="org.eclipse.ui.console.ConsoleView" label="Console"/>
 <page content="org.eclipse.ui.console.ConsoleView:Console View #1" label="Console"/>
+<page content="org.eclipse.ui.console.ConsoleView" label="Console"/>
+<page content="org.eclipse.ui.views.PropertySheet" label="LabelNotFound"/>
+<page content="org.eclipse.datatools.connectivity.DataSourceExplorerNavigator" label="LabelNotFound"/>
 <page content="org.eclipse.ui.views.ProblemView" label="LabelNotFound"/>
 <page content="org.eclipse.ui.views.TaskList" label="LabelNotFound"/>
 <page content="org.eclipse.ui.views.BookmarkView" label="LabelNotFound"/>
@@ -214,8 +188,6 @@
 <part id="2"/>
 <part id="3"/>
 <part id="4"/>
-<part id="6"/>
-<part id="5"/>
 </presentation>
 </folder>
 </info>
@@ -239,168 +211,161 @@
 <workingSets/>
 <navigationHistory>
 <editors>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/fj31-loja-client/appClientModule/br/com/caelum/loja/client/exemplo/ClienteCarrinhoStateless.java"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/fj31-loja-client/appClientModule/br/com/caelum/loja/client/exemplo/ClienteCarrinho.java"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/fj31-loja-ejb3/ejbModule/br/com/caelum/loja/session/CarrinhoBean.java"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/fj31-loja-base/src/br/com/caelum/loja/session/Mensageiro.java"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/fj31-loja-ejb3/ejbModule/br/com/caelum/loja/session/MensageiroBean.java"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/fj31-loja-client/appClientModule/br/com/caelum/loja/client/exemplo/ClienteCarrinho.java"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/fj31-loja-ejb3/ejbModule/br/com/caelum/loja/session/CarrinhoBean.java"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/fj31-loja-base/src/br/com/caelum/loja/session/Mensageiro.java"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/fj31-loja-ejb3/ejbModule/br/com/caelum/loja/session/MensageiroBean.java"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/fj31-loja-base/src/br/com/caelum/loja/session/Agendador.java"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/fj31-loja-ejb3/ejbModule/br/com/caelum/loja/session/AgendadorBean.java"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/fj31-loja-client/appClientModule/br/com/caelum/loja/client/exemplo/ClienteAgendador.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/fj31-loja-ejb3/ejbModule/br/com/caelum/loja/session/GerenciadorLivroBean.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/fj31-loja-base/src/br/com/caelum/loja/session/GerenciadorLoja.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/fj31-loja-client/appClientModule/br/com/caelum/loja/client/exemplo/ClienteSalvaLivroComAutor.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/fj31-loja-client/appClientModule/br/com/caelum/loja/client/exemplo/ClienteGerenciadorPesquisa.java"/>
+<editor factoryID="org.eclipse.jdt.ui.ClassFileEditorInputFactory" id="org.eclipse.jdt.ui.ClassFileEditor" org.eclipse.jdt.ui.ClassFileIdentifier="=fj31-loja-client/\/usr\/lib\/jvm\/java-7-oracle\/jre\/lib\/rt.jar&lt;javax.naming(InitialContext.class"/>
 </editors>
-<item historyLabel="ClienteCarrinhoStateless.java" index="0">
-<position info="not_deleted" x="484" y="0"/>
-</item>
-<item historyLabel="ClienteCarrinhoStateless.java" index="0">
-<position info="not_deleted" x="691" y="0"/>
-</item>
-<item historyLabel="ClienteCarrinhoStateless.java" index="0">
-<position info="not_deleted" x="305" y="0"/>
-</item>
-<item historyLabel="ClienteCarrinhoStateless.java" index="0">
-<position info="not_deleted" x="376" y="8"/>
-</item>
-<item historyLabel="ClienteCarrinhoStateless.java" index="0">
-<position info="not_deleted" x="527" y="0"/>
-</item>
-<item historyLabel="ClienteCarrinhoStateless.java" index="0">
-<position info="not_deleted" x="691" y="0"/>
-</item>
-<item historyLabel="ClienteCarrinhoStateless.java" index="0">
-<position info="not_deleted" x="483" y="0"/>
-</item>
-<item historyLabel="ClienteCarrinho.java" index="1">
-<position info="not_deleted" x="386" y="90"/>
-</item>
-<item historyLabel="CarrinhoBean.java" index="2">
+<item historyLabel="GerenciadorLivroBean.java" index="0">
 <position info="not_deleted" x="0" y="0"/>
 </item>
-<item historyLabel="CarrinhoBean.java" index="2">
-<position info="not_deleted" x="453" y="0"/>
+<item historyLabel="GerenciadorLivroBean.java" index="0">
+<position info="not_deleted" x="1663" y="0"/>
 </item>
-<item historyLabel="CarrinhoBean.java" index="2">
-<position info="not_deleted" x="454" y="5"/>
+<item historyLabel="GerenciadorLivroBean.java" index="0">
+<position info="not_deleted" x="1537" y="5"/>
 </item>
-<item historyLabel="CarrinhoBean.java" index="2">
-<position info="not_deleted" x="453" y="0"/>
+<item historyLabel="GerenciadorLivroBean.java" index="0">
+<position info="not_deleted" x="1663" y="0"/>
 </item>
-<item historyLabel="Mensageiro.java" index="3">
+<item historyLabel="GerenciadorLivroBean.java" index="0">
+<position info="not_deleted" x="1629" y="0"/>
+</item>
+<item historyLabel="GerenciadorLivroBean.java" index="0">
+<position info="not_deleted" x="1629" y="0"/>
+</item>
+<item historyLabel="GerenciadorLivroBean.java" index="0">
+<position info="not_deleted" x="1604" y="7"/>
+</item>
+<item historyLabel="GerenciadorLivroBean.java" index="0">
+<position info="not_deleted" x="1641" y="0"/>
+</item>
+<item historyLabel="ClienteGerenciadorPesquisa.java" index="3">
 <position info="not_deleted" x="0" y="0"/>
 </item>
-<item historyLabel="Mensageiro.java" index="3">
-<position info="not_deleted" x="162" y="0"/>
+<item historyLabel="ClienteGerenciadorPesquisa.java" index="3">
+<position info="not_deleted" x="323" y="15"/>
 </item>
-<item historyLabel="Mensageiro.java" index="3">
-<position info="not_deleted" x="172" y="0"/>
+<item historyLabel="GerenciadorLivroBean.java" index="0">
+<position info="not_deleted" x="1641" y="0"/>
 </item>
-<item historyLabel="Mensageiro.java" index="3">
-<position info="not_deleted" x="152" y="4"/>
+<item historyLabel="ClienteGerenciadorPesquisa.java" index="3">
+<position info="not_deleted" x="323" y="15"/>
 </item>
-<item historyLabel="Mensageiro.java" index="3">
-<position info="not_deleted" x="172" y="0"/>
+<item historyLabel="ClienteGerenciadorPesquisa.java" index="3">
+<position info="not_deleted" x="548" y="0"/>
 </item>
-<item historyLabel="MensageiroBean.java" index="4">
+<item historyLabel="ClienteGerenciadorPesquisa.java" index="3">
+<position info="not_deleted" x="434" y="0"/>
+</item>
+<item historyLabel="ClienteGerenciadorPesquisa.java" index="3">
+<position info="not_deleted" x="403" y="0"/>
+</item>
+<item historyLabel="ClienteGerenciadorPesquisa.java" index="3">
+<position/>
+</item>
+<item historyLabel="ClienteGerenciadorPesquisa.java" index="3">
+<position info="not_deleted" x="434" y="0"/>
+</item>
+<item historyLabel="ClienteGerenciadorPesquisa.java" index="3">
+<position info="not_deleted" x="567" y="0"/>
+</item>
+<item historyLabel="ClienteGerenciadorPesquisa.java" index="3">
+<position info="not_deleted" x="705" y="0"/>
+</item>
+<item historyLabel="ClienteGerenciadorPesquisa.java" index="3">
+<position info="not_deleted" x="557" y="4"/>
+</item>
+<item historyLabel="ClienteGerenciadorPesquisa.java" index="3">
+<position info="not_deleted" x="705" y="0"/>
+</item>
+<item historyLabel="ClienteGerenciadorPesquisa.java" index="3">
+<position info="not_deleted" x="638" y="5"/>
+</item>
+<item historyLabel="ClienteGerenciadorPesquisa.java" index="3">
+<position info="not_deleted" x="644" y="5"/>
+</item>
+<item historyLabel="ClienteGerenciadorPesquisa.java" index="3">
+<position info="not_deleted" x="699" y="0"/>
+</item>
+<item historyLabel="GerenciadorLivroBean.java" index="0">
+<position info="not_deleted" x="466" y="0"/>
+</item>
+<item historyLabel="ClienteSalvaLivroComAutor.java" index="2">
+<position/>
+</item>
+<item historyLabel="GerenciadorLoja.java" index="1">
+<position info="not_deleted" x="214" y="5"/>
+</item>
+<item historyLabel="ClienteSalvaLivroComAutor.java" index="2">
+<position/>
+</item>
+<item historyLabel="GerenciadorLoja.java" index="1">
+<position info="not_deleted" x="214" y="5"/>
+</item>
+<item historyLabel="GerenciadorLivroBean.java" index="0">
+<position info="not_deleted" x="466" y="0"/>
+</item>
+<item historyLabel="ClienteGerenciadorPesquisa.java" index="3">
+<position info="not_deleted" x="661" y="0"/>
+</item>
+<item historyLabel="GerenciadorLivroBean.java" index="0">
+<position info="not_deleted" x="1450" y="0"/>
+</item>
+<item historyLabel="ClienteGerenciadorPesquisa.java" index="3">
+<position info="not_deleted" x="661" y="0"/>
+</item>
+<item historyLabel="ClienteGerenciadorPesquisa.java" index="3">
+<position info="not_deleted" x="357" y="0"/>
+</item>
+<item historyLabel="GerenciadorLivroBean.java" index="0">
+<position info="not_deleted" x="1450" y="0"/>
+</item>
+<item historyLabel="ClienteSalvaLivroComAutor.java" index="2">
 <position info="not_deleted" x="0" y="0"/>
 </item>
-<item historyLabel="MensageiroBean.java" index="4">
-<position info="not_deleted" x="354" y="0"/>
+<item historyLabel="ClienteGerenciadorPesquisa.java" index="3">
+<position info="not_deleted" x="357" y="0"/>
 </item>
-<item historyLabel="CarrinhoBean.java" index="2">
-<position info="not_deleted" x="714" y="0"/>
+<item historyLabel="GerenciadorLivroBean.java" index="0">
+<position info="not_deleted" x="1450" y="0"/>
 </item>
-<item historyLabel="CarrinhoBean.java" index="2">
-<position info="not_deleted" x="1370" y="0"/>
-</item>
-<item historyLabel="ClienteCarrinho.java" index="5">
+<item historyLabel="ClienteSalvaLivroComAutor.java" index="2">
 <position info="not_deleted" x="0" y="0"/>
 </item>
-<item historyLabel="CarrinhoBean.java" index="6">
-<position info="not_deleted" x="1370" y="0"/>
+<item historyLabel="GerenciadorLivroBean.java" index="0">
+<position info="not_deleted" x="1450" y="0"/>
 </item>
-<item historyLabel="Mensageiro.java" index="7">
-<position info="not_deleted" x="172" y="0"/>
+<item historyLabel="ClienteGerenciadorPesquisa.java" index="3">
+<position info="not_deleted" x="357" y="0"/>
 </item>
-<item historyLabel="MensageiroBean.java" index="8">
-<position info="not_deleted" x="254" y="0"/>
-</item>
-<item historyLabel="ClienteCarrinho.java" index="5">
+<item historyLabel="GerenciadorLivroBean.java" index="0">
 <position info="not_deleted" x="0" y="0"/>
 </item>
-<item historyLabel="MensageiroBean.java" index="8">
-<position info="not_deleted" x="284" y="0"/>
+<item historyLabel="ClienteGerenciadorPesquisa.java" index="3">
+<position info="not_deleted" x="357" y="0"/>
 </item>
-<item historyLabel="Agendador.java" index="9">
+<item historyLabel="InitialContext.class" index="4">
+<position info="not_deleted" x="5079" y="14"/>
+</item>
+<item historyLabel="GerenciadorLivroBean.java" index="0">
 <position info="not_deleted" x="0" y="0"/>
 </item>
-<item historyLabel="Agendador.java" index="9">
-<position info="not_deleted" x="130" y="0"/>
+<item historyLabel="InitialContext.class" index="4">
+<position info="not_deleted" x="5079" y="14"/>
 </item>
-<item historyLabel="AgendadorBean.java" index="10">
-<position info="not_deleted" x="0" y="0"/>
+<item historyLabel="GerenciadorLivroBean.java" index="0">
+<position info="not_deleted" x="1122" y="0"/>
 </item>
-<item historyLabel="AgendadorBean.java" index="10">
-<position info="not_deleted" x="400" y="12"/>
+<item historyLabel="ClienteGerenciadorPesquisa.java" index="3">
+<position info="not_deleted" x="357" y="0"/>
 </item>
-<item historyLabel="AgendadorBean.java" index="10">
-<position info="not_deleted" x="568" y="0"/>
+<item historyLabel="GerenciadorLivroBean.java" index="0">
+<position info="not_deleted" x="1655" y="0"/>
 </item>
-<item historyLabel="AgendadorBean.java" index="10">
-<position info="not_deleted" x="790" y="0"/>
-</item>
-<item historyLabel="AgendadorBean.java" index="10">
-<position info="not_deleted" x="757" y="0"/>
-</item>
-<item historyLabel="AgendadorBean.java" index="10">
-<position info="not_deleted" x="906" y="0"/>
-</item>
-<item historyLabel="AgendadorBean.java" index="10">
-<position info="not_deleted" x="1013" y="0"/>
-</item>
-<item historyLabel="AgendadorBean.java" index="10">
-<position info="not_deleted" x="960" y="5"/>
-</item>
-<item historyLabel="AgendadorBean.java" index="10">
-<position info="not_deleted" x="1011" y="0"/>
-</item>
-<item historyLabel="ClienteAgendador.java" index="11">
-<position info="not_deleted" x="0" y="0"/>
-</item>
-<item historyLabel="ClienteAgendador.java" index="11">
-<position info="not_deleted" x="339" y="0"/>
-</item>
-<item historyLabel="ClienteAgendador.java" index="11">
-<position info="not_deleted" x="474" y="0"/>
-</item>
-<item historyLabel="ClienteAgendador.java" index="11">
-<position info="not_deleted" x="472" y="0"/>
-</item>
-<item historyLabel="ClienteAgendador.java" index="11">
-<position info="not_deleted" x="474" y="0"/>
-</item>
-<item historyLabel="ClienteAgendador.java" index="11">
-<position info="not_deleted" x="461" y="5"/>
-</item>
-<item historyLabel="ClienteAgendador.java" index="11">
-<position info="not_deleted" x="472" y="0"/>
-</item>
-<item historyLabel="ClienteAgendador.java" index="11">
-<position info="not_deleted" x="356" y="0"/>
-</item>
-<item historyLabel="AgendadorBean.java" index="10">
-<position info="not_deleted" x="1011" y="0"/>
-</item>
-<item historyLabel="AgendadorBean.java" index="10">
-<position info="not_deleted" x="1138" y="0"/>
-</item>
-<item historyLabel="AgendadorBean.java" index="10">
-<position info="not_deleted" x="791" y="0"/>
-</item>
-<item active="true" historyLabel="ClienteAgendador.java" index="11">
-<position info="not_deleted" x="356" y="0"/>
+<item active="true" historyLabel="ClienteGerenciadorPesquisa.java" index="3">
+<position info="not_deleted" x="357" y="0"/>
 </item>
 </navigationHistory>
 <input factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/" type="8"/>
@@ -408,6 +373,12 @@
 <workbenchWindowAdvisor/>
 <actionBarAdvisor/>
 <trimLayout>
+<trimArea IMemento.internal.id="16384">
+<trimItem IMemento.internal.id="topLeft"/>
+</trimArea>
+<trimArea IMemento.internal.id="131072">
+<trimItem IMemento.internal.id="org.eclipse.ui.editorss"/>
+</trimArea>
 <trimArea IMemento.internal.id="128">
 <trimItem IMemento.internal.id="org.eclipse.ui.internal.WorkbenchWindow.topBar"/>
 <trimItem IMemento.internal.id="org.eclipse.mylyn.tasks.ui.trim.container"/>
@@ -416,10 +387,47 @@
 <trimItem IMemento.internal.id="org.eclise.ui.internal.FastViewBar"/>
 <trimItem IMemento.internal.id="org.eclipse.jface.action.StatusLineManager"/>
 <trimItem IMemento.internal.id="org.eclipse.ui.internal.progress.ProgressRegion"/>
+<trimItem IMemento.internal.id="bottomRight"/>
 </trimArea>
 </trimLayout>
 </window>
 <mruList>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="ClienteSalvaLivroComAutor.java" tooltip="fj31-loja-client/appClientModule/br/com/caelum/loja/client/exemplo/ClienteSalvaLivroComAutor.java">
+<persistable path="/fj31-loja-client/appClientModule/br/com/caelum/loja/client/exemplo/ClienteSalvaLivroComAutor.java"/>
+</file>
+<file factoryID="org.eclipse.jdt.ui.ClassFileEditorInputFactory" id="org.eclipse.jdt.ui.ClassFileEditor" name="InitialContext.class" tooltip="javax.naming.InitialContext">
+<persistable org.eclipse.jdt.ui.ClassFileIdentifier="=fj31-loja-client/\/usr\/lib\/jvm\/java-7-oracle\/jre\/lib\/rt.jar&lt;javax.naming(InitialContext.class"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="GerenciadorLivroBean.java" tooltip="fj31-loja-ejb3/ejbModule/br/com/caelum/loja/session/GerenciadorLivroBean.java">
+<persistable path="/fj31-loja-ejb3/ejbModule/br/com/caelum/loja/session/GerenciadorLivroBean.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="ClienteGerenciadorPesquisa.java" tooltip="fj31-loja-client/appClientModule/br/com/caelum/loja/client/exemplo/ClienteGerenciadorPesquisa.java">
+<persistable path="/fj31-loja-client/appClientModule/br/com/caelum/loja/client/exemplo/ClienteGerenciadorPesquisa.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="GerenciadorLoja.java" tooltip="fj31-loja-base/src/br/com/caelum/loja/session/GerenciadorLoja.java">
+<persistable path="/fj31-loja-base/src/br/com/caelum/loja/session/GerenciadorLoja.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jpt.jpa.ui.internal.editors.PersistenceEditor" name="persistence.xml" tooltip="fj31-loja-ejb3/ejbModule/META-INF/persistence.xml">
+<persistable path="/fj31-loja-ejb3/ejbModule/META-INF/persistence.xml"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Autor.java" tooltip="fj31-loja-base/src/br/com/caelum/loja/entity/Autor.java">
+<persistable path="/fj31-loja-base/src/br/com/caelum/loja/entity/Autor.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="ClienteGerenciador.java" tooltip="fj31-loja-client/appClientModule/br/com/caelum/loja/client/exemplo/ClienteGerenciador.java">
+<persistable path="/fj31-loja-client/appClientModule/br/com/caelum/loja/client/exemplo/ClienteGerenciador.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Livro.java" tooltip="fj31-loja-base/src/br/com/caelum/loja/entity/Livro.java">
+<persistable path="/fj31-loja-base/src/br/com/caelum/loja/entity/Livro.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="ClienteFazendoChamadaLocal.java" tooltip="fj31-loja-client/appClientModule/br/com/caelum/loja/client/exemplo/ClienteFazendoChamadaLocal.java">
+<persistable path="/fj31-loja-client/appClientModule/br/com/caelum/loja/client/exemplo/ClienteFazendoChamadaLocal.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="CarrinhoBean.java" tooltip="fj31-loja-ejb3/ejbModule/br/com/caelum/loja/session/CarrinhoBean.java">
+<persistable path="/fj31-loja-ejb3/ejbModule/br/com/caelum/loja/session/CarrinhoBean.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="ClienteFuzilandoServidor.java" tooltip="fj31-loja-client/appClientModule/br/com/caelum/loja/client/exemplo/ClienteFuzilandoServidor.java">
+<persistable path="/fj31-loja-client/appClientModule/br/com/caelum/loja/client/exemplo/ClienteFuzilandoServidor.java"/>
+</file>
 <file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="ClienteAgendador.java" tooltip="fj31-loja-client/appClientModule/br/com/caelum/loja/client/exemplo/ClienteAgendador.java">
 <persistable path="/fj31-loja-client/appClientModule/br/com/caelum/loja/client/exemplo/ClienteAgendador.java"/>
 </file>
@@ -428,42 +436,6 @@
 </file>
 <file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Agendador.java" tooltip="fj31-loja-base/src/br/com/caelum/loja/session/Agendador.java">
 <persistable path="/fj31-loja-base/src/br/com/caelum/loja/session/Agendador.java"/>
-</file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="ClienteCarrinho.java" tooltip="fj31-loja-client/appClientModule/br/com/caelum/loja/client/exemplo/ClienteCarrinho.java">
-<persistable path="/fj31-loja-client/appClientModule/br/com/caelum/loja/client/exemplo/ClienteCarrinho.java"/>
-</file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="MensageiroBean.java" tooltip="fj31-loja-ejb3/ejbModule/br/com/caelum/loja/session/MensageiroBean.java">
-<persistable path="/fj31-loja-ejb3/ejbModule/br/com/caelum/loja/session/MensageiroBean.java"/>
-</file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Mensageiro.java" tooltip="fj31-loja-base/src/br/com/caelum/loja/session/Mensageiro.java">
-<persistable path="/fj31-loja-base/src/br/com/caelum/loja/session/Mensageiro.java"/>
-</file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="CarrinhoBean.java" tooltip="fj31-loja-ejb3/ejbModule/br/com/caelum/loja/session/CarrinhoBean.java">
-<persistable path="/fj31-loja-ejb3/ejbModule/br/com/caelum/loja/session/CarrinhoBean.java"/>
-</file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="ClienteCarrinhoStateless.java" tooltip="fj31-loja-client/appClientModule/br/com/caelum/loja/client/exemplo/ClienteCarrinhoStateless.java">
-<persistable path="/fj31-loja-client/appClientModule/br/com/caelum/loja/client/exemplo/ClienteCarrinhoStateless.java"/>
-</file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="ClienteProcuraLivro.java" tooltip="fj31-loja-client/appClientModule/br/com/caelum/loja/client/exemplo/ClienteProcuraLivro.java">
-<persistable path="/fj31-loja-client/appClientModule/br/com/caelum/loja/client/exemplo/ClienteProcuraLivro.java"/>
-</file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="GerenciadorLivroBean.java" tooltip="fj31-loja-ejb3/ejbModule/br/com/caelum/loja/session/GerenciadorLivroBean.java">
-<persistable path="/fj31-loja-ejb3/ejbModule/br/com/caelum/loja/session/GerenciadorLivroBean.java"/>
-</file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="GerenciadorLoja.java" tooltip="fj31-loja-base/src/br/com/caelum/loja/session/GerenciadorLoja.java">
-<persistable path="/fj31-loja-base/src/br/com/caelum/loja/session/GerenciadorLoja.java"/>
-</file>
-<file factoryID="org.eclipse.wst.server.ui.editor.input.factory" id="org.eclipse.wst.server.ui.editor" name="JBoss 7.1 Runtime Server" tooltip="JBoss 7.1 Runtime Server">
-<persistable server-id="JBoss 7.1 Runtime Server1366123371525"/>
-</file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="ClienteCarrinhoTestaPassivacao.java" tooltip="fj31-loja-client/appClientModule/br/com/caelum/loja/client/exemplo/ClienteCarrinhoTestaPassivacao.java">
-<persistable path="/fj31-loja-client/appClientModule/br/com/caelum/loja/client/exemplo/ClienteCarrinhoTestaPassivacao.java"/>
-</file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.PropertiesFileEditor" name="jndi.properties" tooltip="fj31-loja-client/appClientModule/jndi.properties">
-<persistable path="/fj31-loja-client/appClientModule/jndi.properties"/>
-</file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.PropertiesFileEditor" name="jboss-ejb-client.properties" tooltip="fj31-loja-client/appClientModule/jboss-ejb-client.properties">
-<persistable path="/fj31-loja-client/appClientModule/jboss-ejb-client.properties"/>
 </file>
 </mruList>
 </workbench>

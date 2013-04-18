@@ -1,0 +1,21 @@
+package br.com.caelum.jms;
+
+import java.util.Properties;
+
+import javax.jms.TopicConnectionFactory;
+import javax.naming.Context;
+import javax.naming.InitialContext;
+import javax.naming.NamingException;
+
+public class RegistraTratadorNoTopico {
+	public static void main(String[] args) throws NamingException {
+		Properties jndiProperties = new Properties();
+		jndiProperties.put(Context.SECURITY_PRINCIPAL, "jms");
+		jndiProperties.put(Context.SECURITY_CREDENTIALS, "123456");
+
+		InitialContext ic = new InitialContext(jndiProperties);
+
+		TopicConnectionFactory topicConnectionFactory = (TopicConnectionFactory) ic
+				.lookup("jms/RemoteConnectionFactory");
+	}
+}

@@ -1,0 +1,9 @@
+package br.com.caelum.loja.interceptor;
+
+import javax.interceptor.InvocationContext;
+
+public class AuditoriaInterceptor {
+	public Object log(InvocationContext context) throws Exception {
+		
+	}
+}
