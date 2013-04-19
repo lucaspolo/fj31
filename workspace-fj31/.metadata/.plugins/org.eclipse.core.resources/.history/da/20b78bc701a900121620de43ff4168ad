@@ -1,0 +1,14 @@
+package br.com.caelum.loja.util;
+
+import java.util.ArrayList;
+import java.util.List;
+
+import br.com.caelum.loja.entity.Livro;
+
+public class Livros {
+	private List<Livro> livros = new ArrayList<Livro>();
+	
+	private List<Livro> getLivros() {
+		return this.livros;
+	}
+}

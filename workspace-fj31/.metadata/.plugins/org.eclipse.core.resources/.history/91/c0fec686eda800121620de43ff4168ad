@@ -1,0 +1,8 @@
+package br.com.caelum.fj31.jaxb;
+
+public class TesteMarshal {
+	public static void main(String[] args) {
+		Produto produto = new Produto();
+		produto.setNome("bola");
+	}
+}

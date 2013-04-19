@@ -1,0 +1,11 @@
+package br.com.caelum.fj31.jaxb;
+
+import javax.xml.bind.JAXBContext;
+import javax.xml.bind.JAXBException;
+
+public class TesteUnmarshal {
+	public static void main(String[] args) throws JAXBException {
+		JAXBContext context = JAXBContext.newInstance(Produto.class);
+		context.createUnmarshaller();
+	}
+}

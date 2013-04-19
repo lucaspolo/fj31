@@ -1,0 +1,9 @@
+package br.com.caelum.fj31.jaxb;
+
+import javax.xml.bind.JAXBContext;
+
+public class TesteUnmarshal {
+	public static void main(String[] args) {
+		JAXBContext.newInstance(Produto.class);
+	}
+}

@@ -1,0 +1,15 @@
+package br.com.caelum.fj31.jaxb;
+
+import javax.xml.bind.JAXBContext;
+
+public class TesteMarshal {
+	public static void main(String[] args) {
+		Produto produto = new Produto();
+		produto.setNome("bola");
+		produto.setPreco(20.34);
+		produto.setDescricao("Uma bola quadrado");
+		
+		JAXBContext context = JAXBContext.newInstance(Produto.class);
+		
+	}
+}

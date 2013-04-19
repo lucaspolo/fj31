@@ -1,0 +1,5 @@
+package br.com.caelum.loja.message;
+
+public class Financeiro {
+
+}
