@@ -12,6 +12,4 @@ public interface GerenciadorLoja {
 	Autor salva(Autor autor);
 	
 	List<Livro> buscaLivrosPeloNomeDoAutor(String nome);
-	
-	List<Livro> listaLivros();
 }

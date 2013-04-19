@@ -70,11 +70,4 @@ public class GerenciadorLivroBean implements GerenciadorLoja {
 		return query.getResultList();
 	}
 
-	@Override
-	public List<Livro> listaLivros() {
-		return this.manager
-				.createQuery("select livro from Livro as livro join fetch livro.autores")
-				.getResultList();
-	}
-
 }
