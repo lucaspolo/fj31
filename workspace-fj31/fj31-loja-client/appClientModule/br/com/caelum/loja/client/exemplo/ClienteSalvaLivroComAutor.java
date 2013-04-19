@@ -13,19 +13,19 @@ public class ClienteSalvaLivroComAutor {
 
 		GerenciadorLoja gerenciador = (GerenciadorLoja) ic
 				.lookup("ejb:fj31-loja-ear/fj31-loja-ejb3/GerenciadorLivroBean!br.com.caelum.loja.session.GerenciadorLoja");
-		
+
 		Autor autor = new Autor();
 		autor.setNome("Autor de Teste");
-		
+
 		Livro livro = new Livro();
 		livro.setNome("Livro de Teste");
 		livro.setPreco(100.0);
-		
+
 		autor = gerenciador.salva(autor);
 		System.out.println("Id do Autor: " + autor.getId());
-		
+
 		livro.getAutores().add(autor);
-		
+
 		gerenciador.salva(livro);
 	}
 }

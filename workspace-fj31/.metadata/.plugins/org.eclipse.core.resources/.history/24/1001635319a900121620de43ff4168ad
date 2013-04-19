@@ -1,0 +1,9 @@
+package br.com.caelum.webservices;
+
+public class CalculadorDeParcela {
+	public double calculaParcela(double valorTotal, int quantidade) {
+		if(quantidade = 0) return 0;
+		
+		
+	}
+}

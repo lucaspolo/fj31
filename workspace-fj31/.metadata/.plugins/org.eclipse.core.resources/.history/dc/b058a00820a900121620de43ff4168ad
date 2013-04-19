@@ -1,0 +1,16 @@
+package br.com.caelum.loja.session;
+
+import java.util.List;
+
+import br.com.caelum.loja.entity.Livro;
+import br.com.caelum.loja.ws.ConsultaDeLivros;
+
+public class ConsultaDeLivrosBean implements ConsultaDeLivros {
+
+	@Override
+	public List<Livro> buscaLivro(String nome) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+}
